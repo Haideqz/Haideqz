@@ -1,4 +1,17 @@
-## Hi there 👋
+# HELLOOOO
+
+I am Jonas Agustin!
+
+I am currently taking a Bachelor of Science in Information Technology in TIP!
+
+### Things that I like:
+- Linux
+- MacOS
+- Hardware
+- Video Games
+
+## Woah I'm also gay? and a bear?!
+> Yes I am pretty active in the PH Bear Community
 
 <!--
 **Haideqz/Haideqz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
